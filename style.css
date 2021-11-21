@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/006/272/147/large/jack-oldham-mountain-galaxy-background-1.jpg?1497300224);
+    background-repeat: no-repeat;
+    text-shadow: 0 0 20px #b700ff;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+    font-size: 60px;
+    letter-spacing: 7px;
+    font-family: 'Orbitron', sans-serif;
+}
